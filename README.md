@@ -1,9 +1,16 @@
-# <div align="center"> Hi there! </div>
-**<div align="center"> I'm Aurora (She/Her) a novice programmer, Linux enthusiast, and electronics hobbyist based in the United States </div>**
-
+<div align="center">
+<h1> hey there 👋 </h1>
+<h3 align="center"> I'm Aurora, a transfem tinkerer based in the US </h3>
+<h2 align="center"> Where you can find me </h2>
+<div align="center">
+  <a href="https://discord.com/users/868544412697886810" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+</div>
 <!--
 **aur0rae/aur0rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+e
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
