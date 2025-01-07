@@ -1,12 +1,13 @@
 <div align="center">
-<h1> hey there 👋 </h1>
-<h3 align="center"> I'm Aurora, a transfem tinkerer based in the US </h3>
-<h2 align="center"> Where you can find me </h2>
-<div align="center">
-  <a href="https://discord.com/users/868544412697886810" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+  <h1> hey there 👋 </h1>
+  <h4 align="center"> I'm Aurora, a transfem tinkerer based in the US </h4>
+  <img src="https://github.com/aur0rae/aur0rae/blob/main/icons/blahaj.svg" height="150">
+  <h3 align="center"> Where you can find me: </h3>
+  <h2="center">
+    <a href="https://discord.com/users/868544412697886810" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+    </a>
+  </h2>
 </div>
 <!--
 **aur0rae/aur0rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
