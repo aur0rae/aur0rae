@@ -1,4 +1,5 @@
-## Hi there 👋
+# <div align="center"> Hi there! </div>
+**<div align="center"> I'm Aurora (She/Her) a novice programmer, Linux enthusiast, and electronics hobbyist based in the United States </div>**
 
 <!--
 **aur0rae/aur0rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
